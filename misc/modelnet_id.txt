@@ -38,3 +38,4 @@ tv_stand	36
 vase	37
 wardrobe	38
 xbox	39
+ansa	40
